@@ -17,7 +17,7 @@ the link:
   
 ## Installation
 
-You can install SNetworkSNA from github with:
+You can install NetworkSNA from github with:
 
 ``` r
 install.packages("NetworkSNA")
