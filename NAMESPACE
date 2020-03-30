@@ -1,0 +1,12 @@
+
+export(ForwardMTDD)
+export(ReverseMTDD)
+export(NetDegreeCentrality)
+export(NetRFactor)
+export(ReadMultisheets)
+export(SummaryNetDC)
+export(SummaryNetDC_Optimal)
+export(SummaryNetRFactor)
+
+importFrom("read_excel", readxl)
+importFrom("getSheetNames", Openxlxs)
