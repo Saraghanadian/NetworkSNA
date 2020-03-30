@@ -1,4 +1,4 @@
-# Network SNA
+# NetworkSNA
 
 This package offers an approach for the determination of network-level social network analysis metrics (SNA) in the Closed loop supply chains(CLSC). Network-level SNA metrics including degree centrality and reducing factor are provided to be used in evaluating alternative network designs in terms of resilience  and balance of flow the supply chain network design. 
 
