@@ -1,0 +1,11 @@
+Package: NetworkSNA
+Type: Package
+Title: Network level SNA metrics for alternative Closed Loop Supply Chains network designs
+Version: 3.6.2
+Author: Sara Akbar Ghanadian
+Maintainer: Sara Akbar Ghanadian <saraghannadian@gmail.com>
+Description: This package provide some network level social network analysis(SNA) metrics to be used for alternative 
+network design of
+Closed Loop Supply chains
+License: GPL-2
+URL: https://github.com/Saraghanadian/NetworkSNA
