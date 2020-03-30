@@ -51,9 +51,9 @@ head( Xvalues)
 # 6   1  6      0 
 #...
 
-# Define Network-level out-degree centrality,in-degree centrality
-for Manufacturer_Distribution Centers in optimal and near optimal CLSC networks  
--------------------------------------------------------------------
+# Define Network-level out-degree centrality,in-degree centrality (Manufacturers-Distribution centers)-----
+
+
 
 NL_DegreeCentrality <- SummaryNetDC(test_list ,1)
 
@@ -70,9 +70,8 @@ NL_DegreeCentrality <- SummaryNetDC(test_list ,1)
 #33      "M_DC" "0.17"   "0.44" 
 #32      "M_DC" "0.03"   "0.17" 
 
-# Define Network level R disperse, R absorb 
-for Manufacturer_Distribution Centers in optimal and near optimal CLSC Networks 
---------------------------------------------------------------------
+# Define Network level R disperse, R absorb Manufacturer_Distribution --------------------------------------
+
 
 NL_Rfactor <- SummaryNetRFactor(test_list)
 
