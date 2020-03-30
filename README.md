@@ -27,7 +27,7 @@ devtools::install_github("Saraghanadian/NetworkSNA")
 ## Example with the SNA metrics
 
 ``` r
-library(SNAinSCM)
+library(NetworkSNA)
 
 # Load data ---------------------------------------------------------------------------------
 data("Xvalues")
