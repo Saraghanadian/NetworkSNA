@@ -1,6 +1,6 @@
 # Network SNA
 
-This package offers an approach for the determination ofnetwork-level social network analysis metrics (SNA) in the Closed loop supply chains(CLSC). Network-level SNA metrics including degree centrality and reducing factor are provided to be used in evaluating alternative network designs in terms of resilience  and balance of flow the supply chain network design. 
+This package offers an approach for the determination of network-level social network analysis metrics (SNA) in the Closed loop supply chains(CLSC). Network-level SNA metrics including degree centrality and reducing factor are provided to be used in evaluating alternative network designs in terms of resilience  and balance of flow the supply chain network design. 
 
 Functions in the package allows to:
 
@@ -15,7 +15,6 @@ A complete description of all features and  interpretation  can be found at
 the link:
 <Journalarticle>
   
-<img src="Rplot.png" />
 ## Installation
 
 You can install SNetworkSNA from github with:
