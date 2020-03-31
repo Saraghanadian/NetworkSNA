@@ -1,5 +1,5 @@
 Package: NetworkSNA
-Type: R Package
+Type: Package
 Title: Network level SNA metrics for alternative Closed Loop Supply Chains network designs
 Version: 3.6.2
 Author: Sara Akbar Ghanadian
